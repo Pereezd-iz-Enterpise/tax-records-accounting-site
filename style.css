@@ -1,0 +1,11 @@
+:root { color-scheme: light; font: 16px/1.55 system-ui, sans-serif; color: #17253b; background: #f4f7fa; }
+* { box-sizing: border-box; }
+body { max-width: 760px; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+header, main, footer { background: white; padding: 1.5rem; border-radius: 10px; margin: 0 0 1rem; }
+header { border-top: 5px solid #2b6cb0; }
+nav { display: flex; flex-wrap: wrap; gap: .8rem; }
+a { color: #155e9b; }
+h1 { font-size: 1.7rem; line-height: 1.2; }
+h2 { margin-top: 1.5rem; font-size: 1.18rem; }
+.notice { border-left: 4px solid #bc7b15; background: #fff8e8; padding: .8rem; }
+small { color: #5b6675; }
